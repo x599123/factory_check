@@ -1,0 +1,13 @@
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/755_2_5.jpg 60,93,113,123,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/758_2_3.jpg 63,99,118,132,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/760_9_4.jpg 64,99,119,132,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/759_2.jpg 66,104,121,136,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/751_2_1.jpg 59,94,118,127,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/756_6_4.jpg 71,99,129,130,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/747_2.jpg 60,96,115,128,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/755_5_4.jpg 62,99,116,128,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/756_8_4.jpg 67,100,122,132,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/762_4_4.jpg 56,102,113,132,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/744_5_3.jpg 42,92,100,122,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/759_4_4.jpg 66,108,121,140,0
+/nfs/Workspace/Feng_Hsin_steel/dataall/Digits/led_578_8.jpg 103,28,152,67,0
