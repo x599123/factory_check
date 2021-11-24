@@ -284,7 +284,7 @@ def run(weights='handle_best.pt',  # model.pt path(s)
                 temp_list_class_cor=[]
                 # Rescale boxes from img_size to im0 size
                 det[:, :4] = scale_coords(img.shape[2:], det[:, :4], im0.shape).round()
-                chinese_names= ['關閉','開啟','半開']
+                chinese_names= ['○','●','◐']
                 # Print results
                 for c in det[:, -1].unique():
                     n = (det[:, -1] == c).sum()  # detections per class
